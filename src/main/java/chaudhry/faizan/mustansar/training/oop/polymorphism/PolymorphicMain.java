@@ -1,5 +1,6 @@
-package chaudhry.faizan.mustansar.training.oop.polymorphism.animal;
+package chaudhry.faizan.mustansar.training.oop.polymorphism;
 
+import chaudhry.faizan.mustansar.training.oop.polymorphism.animal.Animal;
 import chaudhry.faizan.mustansar.training.oop.polymorphism.animal.type.FlyingAnimal;
 import chaudhry.faizan.mustansar.training.oop.polymorphism.animal.type.TerrestrialAnimal;
 
